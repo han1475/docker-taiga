@@ -1,0 +1,13 @@
+frontend
+
+# Generated files
+*.log
+*.pot
+*.pyc
+_build
+
+# custom
+__pycache__/
+tmp/*
+production.env
+productionenv
